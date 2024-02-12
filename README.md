@@ -207,7 +207,7 @@ DevSecOps
 <!-- You can replace the URLs in the parentheses with your actual GitHub and LinkedIn profile URLs -->
 
 ### Github Stats:
-![1111darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1111darsh&show_icons=true)
+![1111darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1111darshan&show_icons=true)
 <a href="https://data.typeracer.com/pit/profile?user=1111darsh&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=1111darsh" border="0" alt="TpeRacer.com scorecard for user 1111darsh"/></a>
 
 
