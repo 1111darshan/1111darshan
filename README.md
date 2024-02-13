@@ -1,4 +1,4 @@
-<a href="https://1111darsh.com"><img src="https://1111darsh.com/images/11dlogo.png"  width="20%" height="10%"></a>
+<a href="https://1111darsh.com"><img src="banner.png" ></a>
 
 # Darshan Mistry 
 
