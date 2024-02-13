@@ -5,12 +5,12 @@
 
 Experienced DevOps professional with 4 years of hands-on expertise in orchestrating CI/CD pipelines, cloud infrastructure management, and implementing DevSecOps practices. Proficient in various cloud technologies and passionate about continuous learning and evolving with the ever-changing tech landscape.
 
-## Experience
+## [Experience](./WORK.md)
 - **DevOps Engineer** | *SKUAD.IO* (All Remote) - November 2022 – September 2023
 - **DevOps Cloud Engineer** | *OMUNI (ARVIND LIMITED)* - April 2021 – July 2022
 - **Associate DevOps Engineer** | *BORNDIGITAL* - October 2019 – December 2020
 
-## Certifications 
+## [Certifications](./Certifications.md) 
 - Certified Kubernetes Administrator - LF-e0g7gx1qv3 from Cloud Native Computing Foundation
 - DevOps Professional
 - Docker Certified Associate Exam Course from KodeKloud
@@ -20,6 +20,7 @@ Experienced DevOps professional with 4 years of hands-on expertise in orchestrat
 
 ## Current Focus
 I am currently dedicated to enhancing my skills in System Design, AWS cloud services, and Kubernetes. Actively seeking opportunities to apply my expertise in DevOps, DevSecOps, and Infrastructure roles.
+
 ## Skills & Badges
 
 Website
@@ -233,17 +234,7 @@ DevSecOps
 [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat-square)](https://medium.com/@1111darsh)
 [![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=flat-square)](https://join.skype.com/invite/mISu0LQqX3hM)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)](https://hub.docker.com/u/1111darsh)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/1111darsh)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/1111darshan)
 <!-- [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)]()
 [![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=flat-square)]() -->
-
-
-[https://1111darsh.com](https://1111darsh.com)
-
-[PROJECTS](./PROJECTS)
-
-[Certifications](./Certifications)
-
-[WORK](./WORK)
-
 
