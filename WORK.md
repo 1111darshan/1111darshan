@@ -1,6 +1,15 @@
 # MY WORK EXPERIENCES
 
+###  HDFC securities || Senior DevOps Engineer
+##### March 2024 - Present -- Bengalore, India
 
+**Tools & Technology**: 
+
+**Accomplishments** :  
+
+Roles: 
+
+---
 ###  Skuad || DevOps Engineer
 ##### November 2022 - September 2023 -- Gurugram, India
 

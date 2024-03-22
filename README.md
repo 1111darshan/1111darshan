@@ -6,7 +6,8 @@
 Experienced DevOps professional with 4 years of hands-on expertise in orchestrating CI/CD pipelines, cloud infrastructure management, and implementing DevSecOps practices. Proficient in various cloud technologies and passionate about continuous learning and evolving with the ever-changing tech landscape.
 
 ## [Experience](./WORK.md)
-- **DevOps Engineer** | *SKUAD.IO* (All Remote) - November 2022 – September 2023
+- **Senior DevOps Engineer** | *HDFC securities* -  Mar 2024 - Present
+- **DevOps Engineer** | *SKUAD.IO (All Remote)* - November 2022 – September 2023
 - **DevOps Cloud Engineer** | *OMUNI (ARVIND LIMITED)* - April 2021 – July 2022
 - **Associate DevOps Engineer** | *BORNDIGITAL* - October 2019 – December 2020
 
