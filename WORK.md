@@ -3,11 +3,35 @@
 ###  HDFC securities || Senior DevOps Engineer
 ##### March 2024 - Present -- Bengalore, India
 
-**Tools & Technology**: 
+**Tools & Technology**: AWS (EC2, EKS, ECS, Lambda, RDS, MSK, CloudFront, ElastiCache, CloudFormation, VPC, Subnets, Transit Gateway, ALB, NLB, WAF, S3, SFTP, SQS, SNS, Incident Manager, OpenSearch, Amazon MQ, SES, EventBridge, API Gateway, IAM, Secrets Manager, Bedrock), Kubernetes, Helm, ArgoCD, Istio, Cilium, External Secrets, OpenTelemetry, Prometheus, Grafana, AWS Load Balancer Controller, CoreDNS, Gateway API, Karpenter, Matrix Server, Storage Classes, OpenCost, KEDA, SonarQube, Allure Server, GitLab Runner, GitLab CI/CD, Elasticsearch, Elastic Fleet, Elastic Agent, APM, Kibana Dashboards, Keycloak, ARCON, 2FA, Linux
 
 **Accomplishments** :  
+- Successfully onboarded multiple Java, Go, and React-based applications onto AWS and Kubernetes platforms, standardizing deployment processes.
+- Designed and maintained GitLab CI/CD pipelines for containerized, serverless, and static web applications, reducing deployment effort and improving release consistency.
+- Implemented GitOps-based deployment workflows using ArgoCD, improving deployment reliability and rollback capabilities.
+- Optimized EKS cluster resource utilization using Karpenter and OpenCost, improving infrastructure efficiency and cost visibility.
+- Established centralized observability using OpenTelemetry, Prometheus, Grafana, and Elastic APM for proactive monitoring and troubleshooting.
+- Implemented secure secret management using AWS Secrets Manager and Kubernetes External Secrets, enhancing security compliance.
+- Managed Elasticsearch clusters, backup policies, index lifecycle management, dashboards, alerts, and APM monitoring.
+- Conducted Disaster Recovery (DR) drills and validated application recovery procedures to ensure business continuity.
+- Strengthened platform security through Keycloak, ARCON, IAM role-based access controls, WAF policies, and Multi-Factor Authentication (2FA).
+- Automated infrastructure provisioning and configuration management using AWS CloudFormation and AWS-native automation services.
+- Improved application scalability and traffic management using Istio service mesh, Gateway API, and AWS Load Balancer Controllers.
+- Supported and optimized serverless workloads using AWS Lambda, API Gateway, EventBridge, SNS, and SQS integrations.
+- Led troubleshooting of production incidents involving Kubernetes, AWS networking, databases, and application connectivity, reducing Mean Time to Resolution (MTTR).
+
+
 
 Roles: 
+- Senior DevOps Engineer
+- Administrator of AWS, Kubernetes, GitLab, Elasticsearch, Linux Servers, CI/CD Pipelines, Monitoring and Logging Platforms.Onboard and support backend (Go, Java) and frontend (React, S3-hosted, Kubernetes-hosted) applications.
+- Manage Kubernetes clusters, networking, service mesh, ingress, and platform services.Perform server patching, upgrades, and security hardening activities.
+- Troubleshoot infrastructure, application, database, and connectivity issues across AWS environments.
+- Manage access control, authentication, authorization, and privileged access systems.
+- Execute Disaster Recovery (DR) drills and validate recovery processes.Maintain observability, monitoring, alerting, and incident response workflows.
+- Collaborate with development, security, and operations teams to ensure platform reliability and compliance.
+
+
 
 ---
 ###  Skuad || DevOps Engineer
