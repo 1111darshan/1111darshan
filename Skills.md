@@ -215,9 +215,7 @@ Skill Matrix
 
 | Serverless | Serverless Architecture | Architecture | HDFC Securities | https://aws.amazon.com/serverless/ | https://docs.aws.amazon.com/serverless/ |
 
-| Buildah | Buildah | Container Build | Skuad | https://buildah.io/ | https://buildah.io/ 
-
-⸻
+| Buildah | Buildah | Container Build | Skuad | https://buildah.io/ | https://buildah.io/ |
 
 Company Coverage
 
