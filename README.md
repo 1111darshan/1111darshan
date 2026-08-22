@@ -210,7 +210,7 @@ DevSecOps
 
 ### Github Stats:
 ![1111darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1111darshan&show_icons=true)
-<a href="https://data.typeracer.com/pit/profile?user=1111darsh&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=1111darsh" border="0" alt="TpeRacer.com scorecard for user 1111darsh"/></a>
+<a href="https://data.typeracer.com/pit/profile?user=1111darshan&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=1111darshan" border="0" alt="TpeRacer.com scorecard for user 1111darshan"/></a>
 
 
 
