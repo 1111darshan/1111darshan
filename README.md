@@ -3,7 +3,7 @@
 # Darshan Mistry 
 
 
-Experienced DevOps professional with 6 years of hands-on expertise in orchestrating CI/CD pipelines, cloud infrastructure management, and implementing DevSecOps practices. Proficient in various cloud technologies and passionate about continuous learning and evolving with the ever-changing tech landscape.
+Senior DevOps Engineer with 7 years of experience in designing, automating, and operating cloud-native platforms and delivery environments. I specialize in AWS, Kubernetes, CI/CD, Infrastructure as Code, and DevSecOps, with a strong focus on reliability, scalability, security, and operational excellence. Currently, I am expanding toward end-to-end software engineering and system design, while exploring observability, automation, emerging technologies, and AI-assisted engineering to build more efficient and future-ready solutions.
 
 ## [Experience](./WORK.md)
 - **Senior DevOps Engineer** | *HDFC securities* -  Mar 2024 - Present
@@ -201,12 +201,13 @@ DevSecOps
 
 
 ### Learning Goals
-- Mastering System Design principles and best practices
-- Deepening understanding and proficiency in AWS cloud services
-- Advancing knowledge and hands-on experience in Kubernetes orchestration
 
+1. Develop end-to-end engineering expertise by designing, building, deploying, and operating production-grade applications.
+2. Deepen System Design, Cloud & Kubernetes knowledge to architect scalable, reliable, highly available, and future-ready systems.
+3. Strengthen DevOps, Testing & Security capabilities through CI/CD, IaC, automation, observability, performance testing, and secure development practices.
+4. Improve engineering excellence and adaptability by applying modern architecture, automation, documentation, best practices, and emerging technologies.
+5. Use AI to enhance engineering productivity while building a well-rounded technical skill stack for faster learning, development, and problem-solving.
 
-<!-- You can replace the URLs in the parentheses with your actual GitHub and LinkedIn profile URLs -->
 
 ### Github Stats:
 ![1111darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1111darshan&show_icons=true)
