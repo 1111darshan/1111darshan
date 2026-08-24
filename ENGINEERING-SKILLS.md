@@ -1,717 +1,414 @@
 # Engineering Skills
 
-<details open>
-<summary><h2>Core Engineering</h2></summary>
-
-<details>
-<summary><h3>1. DSA — Data Structures & Algorithms</h3></summary>
-
-<details>
-<summary><h4>Data Structures</h4></summary>
-
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Deque
-- Hash Table
-- Heap
-- Priority Queue
-- Trees
-- Binary Search Tree
-- Trie
-- Graph
-- Disjoint Set / Union-Find
-
-</details>
-
-<details>
-<summary><h4>Algorithms</h4></summary>
-
-- Searching
-- Sorting
-- Recursion
-- Backtracking
-- Divide & Conquer
-- Greedy Algorithms
-- Dynamic Programming
-- Graph Algorithms
-- Bit Manipulation
-
-</details>
-
-<details>
-<summary><h4>Problem-Solving Patterns</h4></summary>
-
-- Two Pointers
-- Sliding Window
-- Fast & Slow Pointers
-- Binary Search
-- Prefix Sum
-- Hashing
-- Monotonic Stack
-- Top K Elements
-- Merge Intervals
-- Tree Traversal
-- Graph Traversal
-
-</details>
-
-<details>
-<summary><h4>Complexity Analysis</h4></summary>
-
-- Big O
-- Time Complexity
-- Space Complexity
-- Best / Average / Worst Case
-- Amortized Analysis
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>2. Programming</h3></summary>
-
-<details>
-<summary><h4>Programming Fundamentals</h4></summary>
-
-- Variables
-- Data Types
-- Operators
-- Control Flow
-- Functions
-- Scope
-- Error Handling
-
-</details>
-
-<details>
-<summary><h4>Object-Oriented Programming</h4></summary>
-
-- Classes
-- Objects
-- Encapsulation
-- Abstraction
-- Inheritance
-- Polymorphism
-- Composition
-
-</details>
-
-<details>
-<summary><h4>Functional Programming</h4></summary>
-
-- Pure Functions
-- Immutability
-- Higher-Order Functions
-- Closures
-- Function Composition
-
-</details>
-
-<details>
-<summary><h4>Advanced Programming</h4></summary>
-
-- Memory Management
-- Concurrency
-- Parallelism
-- Asynchronous Programming
-- Generics
-- Reflection
-
-</details>
-
-<details>
-<summary><h4>Programming Practices</h4></summary>
-
-- Clean Code
-- SOLID
-- DRY
-- KISS
-- YAGNI
-- Error Handling
-- Code Organization
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>3. Problem Solving</h3></summary>
-
-<details>
-<summary><h4>Problem Analysis</h4></summary>
-
-- Requirement Understanding
-- Problem Decomposition
-- Input / Output Analysis
-- Constraints Analysis
-
-</details>
-
-<details>
-<summary><h4>Solution Design</h4></summary>
-
-- Brute Force
-- Optimization
-- Trade-offs
-- Edge Cases
-- Assumptions
-
-</details>
-
-<details>
-<summary><h4>Problem-Solving Techniques</h4></summary>
-
-- Pattern Recognition
-- Divide & Conquer
-- Abstraction
-- Iteration
-- Recursion
-- Optimization
-
-</details>
-
-<details>
-<summary><h4>Evaluation</h4></summary>
-
-- Correctness
-- Complexity
-- Scalability
-- Maintainability
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>4. Logical & Analytical Thinking</h3></summary>
-
-<details>
-<summary><h4>Logical Reasoning</h4></summary>
-
-- Deductive Reasoning
-- Inductive Reasoning
-- Causal Reasoning
-- Pattern Recognition
-
-</details>
-
-<details>
-<summary><h4>Analytical Thinking</h4></summary>
-
-- Decomposition
-- Comparison
-- Classification
-- Prioritization
-- Root Cause Analysis
-
-</details>
-
-<details>
-<summary><h4>Quantitative Reasoning</h4></summary>
-
-- Probability
-- Statistics
-- Estimation
-- Mathematical Reasoning
-
-</details>
-
-<details>
-<summary><h4>Decision Making</h4></summary>
-
-- Assumptions
-- Constraints
-- Trade-offs
-- Risk Analysis
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>5. Testing</h3></summary>
-
-<details>
-<summary><h4>Testing Fundamentals</h4></summary>
-
-- Test Cases
-- Test Scenarios
-- Test Data
-- Test Coverage
-
-</details>
-
-<details>
-<summary><h4>Testing Types</h4></summary>
-
-- Unit Testing
-- Integration Testing
-- System Testing
-- End-to-End Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- Acceptance Testing
-
-</details>
-
-<details>
-<summary><h4>Testing Techniques</h4></summary>
-
-- Black Box Testing
-- White Box Testing
-- Boundary Value Analysis
-- Equivalence Partitioning
-- Decision Table Testing
-
-</details>
-
-<details>
-<summary><h4>Automated Testing</h4></summary>
-
-- Test Automation
-- Test Frameworks
-- Mocking
-- Stubbing
-- Assertions
-- Test Fixtures
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>6. Quality Assurance</h3></summary>
-
-<details>
-<summary><h4>Quality Fundamentals</h4></summary>
-
-- Quality Standards
-- Quality Metrics
-- Quality Gates
-- Defect Management
-
-</details>
-
-<details>
-<summary><h4>QA Processes</h4></summary>
-
-- Test Planning
-- Test Strategy
-- Test Execution
-- Defect Tracking
-- Release Validation
-
-</details>
-
-<details>
-<summary><h4>Code Quality</h4></summary>
-
-- Code Standards
-- Static Analysis
-- Code Complexity
-- Maintainability
-- Reliability
-
-</details>
-
-<details>
-<summary><h4>Quality Practices</h4></summary>
-
-- Continuous Testing
-- Quality Automation
-- Quality Reviews
-- Process Improvement
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>7. Debugging</h3></summary>
-
-<details>
-<summary><h4>Debugging Fundamentals</h4></summary>
-
-- Bugs
-- Errors
-- Exceptions
-- Failures
-- Root Cause
-
-</details>
-
-<details>
-<summary><h4>Debugging Techniques</h4></summary>
-
-- Breakpoints
-- Step Execution
-- Stack Trace Analysis
-- Logging
-- Tracing
-- Profiling
-
-</details>
-
-<details>
-<summary><h4>Problem Diagnosis</h4></summary>
-
-- Reproduction
-- Isolation
-- Root Cause Analysis
-- Fault Localization
-- Dependency Analysis
-
-</details>
-
-<details>
-<summary><h4>Production Debugging</h4></summary>
-
-- Incident Debugging
-- Log Analysis
-- Performance Debugging
-- Memory Debugging
-- Distributed System Debugging
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>8. Code Review</h3></summary>
-
-<details>
-<summary><h4>Review Fundamentals</h4></summary>
-
-- Review Process
-- Review Checklist
-- Review Standards
-
-</details>
-
-<details>
-<summary><h4>Code Quality</h4></summary>
-
-- Readability
-- Maintainability
-- Simplicity
-- Modularity
-- Reusability
-
-</details>
-
-<details>
-<summary><h4>Technical Review</h4></summary>
-
-- Correctness
-- Performance
-- Security
-- Error Handling
-- Scalability
-- Testability
-
-</details>
-
-<details>
-<summary><h4>Review Practices</h4></summary>
-
-- Pull Requests
-- Review Comments
-- Approval
-- Refactoring
-- Knowledge Sharing
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>9. Version Control</h3></summary>
-
-<details>
-<summary><h4>Git Fundamentals</h4></summary>
-
-- Repository
-- Commit
-- Branch
-- Merge
-- Tag
-
-</details>
-
-<details>
-<summary><h4>Branching</h4></summary>
-
-- Feature Branch
-- Git Flow
-- Trunk-Based Development
-- Branch Protection
-
-</details>
-
-<details>
-<summary><h4>Collaboration</h4></summary>
-
-- Pull Request
-- Code Review
-- Merge Conflict
-- Remote Repository
-
-</details>
-
-<details>
-<summary><h4>Advanced Git</h4></summary>
-
-- Rebase
-- Cherry-Pick
-- Revert
-- Reset
-- Stash
-- Bisect
-- Submodules
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>10. SDLC — Software Development Life Cycle</h3></summary>
-
-<details>
-<summary><h4>SDLC Phases</h4></summary>
-
-- Requirements
-- Analysis
-- Design
-- Development
-- Testing
-- Deployment
-- Maintenance
-
-</details>
-
-<details>
-<summary><h4>Development Practices</h4></summary>
-
-- Requirement Management
-- Technical Design
-- Implementation
-- Code Review
-- Testing
-- Release Management
-
-</details>
-
-<details>
-<summary><h4>Software Maintenance</h4></summary>
-
-- Bug Fixing
-- Refactoring
-- Enhancements
-- Versioning
-- Technical Debt
-
-</details>
-
-<details>
-<summary><h4>SDLC Models</h4></summary>
-
-- Waterfall
-- V-Model
-- Iterative
-- Incremental
-- Agile
-- DevOps
-
-</details>
-
-</details>
-
-<details>
-<summary><h3>11. Agile / Scrum</h3></summary>
-
-<details>
-<summary><h4>Agile Fundamentals</h4></summary>
-
-- Agile Principles
-- Agile Manifesto
-- Iterative Development
-- Incremental Delivery
-
-</details>
-
-<details>
-<summary><h4>Scrum Roles</h4></summary>
-
-- Product Owner
-- Scrum Master
-- Development Team
-
-</details>
-
-<details>
-<summary><h4>Scrum Events</h4></summary>
-
-- Sprint
-- Sprint Planning
-- Daily Scrum
-- Sprint Review
-- Sprint Retrospective
-
-</details>
-
-<details>
-<summary><h4>Scrum Artifacts</h4></summary>
-
-- Product Backlog
-- Sprint Backlog
-- Increment
-- User Story
-- Acceptance Criteria
-
-</details>
-
-<details>
-<summary><h4>Agile Practices</h4></summary>
-
-- Estimation
-- Story Points
-- Velocity
-- Backlog Refinement
-- Definition of Done
-- Continuous Improvement
-
-</details>
-
-</details>
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>System Design & Architecture</h2></summary>
-
-- HLD (High-Level Design)
-- LLD (Low-Level Design)
-- Software Architecture
-- Design Patterns
-- Distributed Systems
-- Microservices
-- Event-Driven Architecture
-- API Design
-- Database Design
-- Data Modeling
-- Message Queues & Event Streaming
-- Caching
-- Concurrency & Parallelism
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>Cloud & Infrastructure</h2></summary>
-
-- Cloud Computing
-- Infrastructure
-- Hosting
-- Deployment
-- Infrastructure as Code (IaC)
-- Containerization
-- Orchestration
-- Autoscaling
-- Scalability
-- Networking
-- High Availability
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>DevOps & Reliability</h2></summary>
-
-- DevOps
-- CI/CD
-- Monitoring
-- Observability
-- Logging
-- Troubleshooting
-- Performance Optimization
-- Reliability
-- Fault Tolerance
-- Disaster Recovery
-- Backup & Recovery
-- Cost Optimization
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>Security</h2></summary>
-
-- Cybersecurity
-- Application Security
-- Cloud Security
-- Authentication
-- Authorization
-- Network Security
-- DevSecOps
-- Security Automation
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>Automation</h2></summary>
-
-- Scripting
-- Automation
-- Infrastructure Automation
-- Deployment Automation
-- Test Automation
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>AI & Intelligent Engineering</h2></summary>
-
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Prompt Engineering
-- AI Agents
-- LLMs
-- RAG
-- AI Integration
-- AI-Assisted Development
-
-</details>
-
-<br>
-
-<details open>
-<summary><h2>Professional & Leadership</h2></summary>
-
-- Communication
-- Team Collaboration
-- Technical Leadership
-- Mentoring
-- Technical Documentation
-- Project Management
-- Technical Decision Making
-
-</details>
-
-<br>
+## Core Engineering
+
+1. DSA — Data Structures & Algorithms
+   i. Data Structures
+      a. Arrays
+      b. Strings
+      c. Linked Lists
+      d. Stack
+      e. Queue
+      f. Deque
+      g. Hash Table
+      h. Heap
+      i. Priority Queue
+      j. Trees
+      k. Binary Search Tree
+      l. Trie
+      m. Graph
+      n. Disjoint Set / Union-Find
+   ii. Algorithms
+      a. Searching
+      b. Sorting
+      c. Recursion
+      d. Backtracking
+      e. Divide & Conquer
+      f. Greedy Algorithms
+      g. Dynamic Programming
+      h. Graph Algorithms
+      i. Bit Manipulation
+   iii. Problem-Solving Patterns
+      a. Two Pointers
+      b. Sliding Window
+      c. Fast & Slow Pointers
+      d. Binary Search
+      e. Prefix Sum
+      f. Hashing
+      g. Monotonic Stack
+      h. Top K Elements
+      i. Merge Intervals
+      j. Tree Traversal
+      k. Graph Traversal
+   iv. Complexity Analysis
+      a. Big O
+      b. Time Complexity
+      c. Space Complexity
+      d. Best / Average / Worst Case
+      e. Amortized Analysis
+
+2. Programming
+   i. Programming Fundamentals
+      a. Variables
+      b. Data Types
+      c. Operators
+      d. Control Flow
+      e. Functions
+      f. Scope
+      g. Error Handling
+   ii. Object-Oriented Programming
+      a. Classes
+      b. Objects
+      c. Encapsulation
+      d. Abstraction
+      e. Inheritance
+      f. Polymorphism
+      g. Composition
+   iii. Functional Programming
+      a. Pure Functions
+      b. Immutability
+      c. Higher-Order Functions
+      d. Closures
+      e. Function Composition
+   iv. Advanced Programming
+      a. Memory Management
+      b. Concurrency
+      c. Parallelism
+      d. Asynchronous Programming
+      e. Generics
+      f. Reflection
+   v. Programming Practices
+      a. Clean Code
+      b. SOLID
+      c. DRY
+      d. KISS
+      e. YAGNI
+      f. Error Handling
+      g. Code Organization
+
+3. Problem Solving
+   i. Problem Analysis
+      a. Requirement Understanding
+      b. Problem Decomposition
+      c. Input / Output Analysis
+      d. Constraints Analysis
+   ii. Solution Design
+      a. Brute Force
+      b. Optimization
+      c. Trade-offs
+      d. Edge Cases
+      e. Assumptions
+   iii. Problem-Solving Techniques
+      a. Pattern Recognition
+      b. Divide & Conquer
+      c. Abstraction
+      d. Iteration
+      e. Recursion
+      f. Optimization
+   iv. Evaluation
+      a. Correctness
+      b. Complexity
+      c. Scalability
+      d. Maintainability
+
+4. Logical & Analytical Thinking
+   i. Logical Reasoning
+      a. Deductive Reasoning
+      b. Inductive Reasoning
+      c. Causal Reasoning
+      d. Pattern Recognition
+   ii. Analytical Thinking
+      a. Decomposition
+      b. Comparison
+      c. Classification
+      d. Prioritization
+      e. Root Cause Analysis
+   iii. Quantitative Reasoning
+      a. Probability
+      b. Statistics
+      c. Estimation
+      d. Mathematical Reasoning
+   iv. Decision Making
+      a. Assumptions
+      b. Constraints
+      c. Trade-offs
+      d. Risk Analysis
+
+5. Testing
+   i. Testing Fundamentals
+      a. Test Cases
+      b. Test Scenarios
+      c. Test Data
+      d. Test Coverage
+   ii. Testing Types
+      a. Unit Testing
+      b. Integration Testing
+      c. System Testing
+      d. End-to-End Testing
+      e. Regression Testing
+      f. Smoke Testing
+      g. Sanity Testing
+      h. Acceptance Testing
+   iii. Testing Techniques
+      a. Black Box Testing
+      b. White Box Testing
+      c. Boundary Value Analysis
+      d. Equivalence Partitioning
+      e. Decision Table Testing
+   iv. Automated Testing
+      a. Test Automation
+      b. Test Frameworks
+      c. Mocking
+      d. Stubbing
+      e. Assertions
+      f. Test Fixtures
+
+6. Quality Assurance
+   i. Quality Fundamentals
+      a. Quality Standards
+      b. Quality Metrics
+      c. Quality Gates
+      d. Defect Management
+   ii. QA Processes
+      a. Test Planning
+      b. Test Strategy
+      c. Test Execution
+      d. Defect Tracking
+      e. Release Validation
+   iii. Code Quality
+      a. Code Standards
+      b. Static Analysis
+      c. Code Complexity
+      d. Maintainability
+      e. Reliability
+   iv. Quality Practices
+      a. Continuous Testing
+      b. Quality Automation
+      c. Quality Reviews
+      d. Process Improvement
+
+7. Debugging
+   i. Debugging Fundamentals
+      a. Bugs
+      b. Errors
+      c. Exceptions
+      d. Failures
+      e. Root Cause
+   ii. Debugging Techniques
+      a. Breakpoints
+      b. Step Execution
+      c. Stack Trace Analysis
+      d. Logging
+      e. Tracing
+      f. Profiling
+   iii. Problem Diagnosis
+      a. Reproduction
+      b. Isolation
+      c. Root Cause Analysis
+      d. Fault Localization
+      e. Dependency Analysis
+   iv. Production Debugging
+      a. Incident Debugging
+      b. Log Analysis
+      c. Performance Debugging
+      d. Memory Debugging
+      e. Distributed System Debugging
+
+8. Code Review
+   i. Review Fundamentals
+      a. Review Process
+      b. Review Checklist
+      c. Review Standards
+   ii. Code Quality
+      a. Readability
+      b. Maintainability
+      c. Simplicity
+      d. Modularity
+      e. Reusability
+   iii. Technical Review
+      a. Correctness
+      b. Performance
+      c. Security
+      d. Error Handling
+      e. Scalability
+      f. Testability
+   iv. Review Practices
+      a. Pull Requests
+      b. Review Comments
+      c. Approval
+      d. Refactoring
+      e. Knowledge Sharing
+
+9. Version Control
+   i. Git Fundamentals
+      a. Repository
+      b. Commit
+      c. Branch
+      d. Merge
+      e. Tag
+   ii. Branching
+      a. Feature Branch
+      b. Git Flow
+      c. Trunk-Based Development
+      d. Branch Protection
+   iii. Collaboration
+      a. Pull Request
+      b. Code Review
+      c. Merge Conflict
+      d. Remote Repository
+   iv. Advanced Git
+      a. Rebase
+      b. Cherry-Pick
+      c. Revert
+      d. Reset
+      e. Stash
+      f. Bisect
+      g. Submodules
+
+10. SDLC — Software Development Life Cycle
+   i. SDLC Phases
+      a. Requirements
+      b. Analysis
+      c. Design
+      d. Development
+      e. Testing
+      f. Deployment
+      g. Maintenance
+   ii. Development Practices
+      a. Requirement Management
+      b. Technical Design
+      c. Implementation
+      d. Code Review
+      e. Testing
+      f. Release Management
+   iii. Software Maintenance
+      a. Bug Fixing
+      b. Refactoring
+      c. Enhancements
+      d. Versioning
+      e. Technical Debt
+   iv. SDLC Models
+      a. Waterfall
+      b. V-Model
+      c. Iterative
+      d. Incremental
+      e. Agile
+      f. DevOps
+
+11. Agile / Scrum
+   i. Agile Fundamentals
+      a. Agile Principles
+      b. Agile Manifesto
+      c. Iterative Development
+      d. Incremental Delivery
+   ii. Scrum Roles
+      a. Product Owner
+      b. Scrum Master
+      c. Development Team
+   iii. Scrum Events
+      a. Sprint
+      b. Sprint Planning
+      c. Daily Scrum
+      d. Sprint Review
+      e. Sprint Retrospective
+   iv. Scrum Artifacts
+      a. Product Backlog
+      b. Sprint Backlog
+      c. Increment
+      d. User Story
+      e. Acceptance Criteria
+   v. Agile Practices
+      a. Estimation
+      b. Story Points
+      c. Velocity
+      d. Backlog Refinement
+      e. Definition of Done
+      f. Continuous Improvement
+
+## System Design & Architecture
+
+1. HLD (High-Level Design)
+2. LLD (Low-Level Design)
+3. Software Architecture
+4. Design Patterns
+5. Distributed Systems
+6. Microservices
+7. Event-Driven Architecture
+8. API Design
+9. Database Design
+10. Data Modeling
+11. Message Queues & Event Streaming
+12. Caching
+13. Concurrency & Parallelism
+
+## Cloud & Infrastructure
+
+1. Cloud Computing
+2. Infrastructure
+3. Hosting
+4. Deployment
+5. Infrastructure as Code (IaC)
+6. Containerization
+7. Orchestration
+8. Autoscaling
+9. Scalability
+10. Networking
+11. High Availability
+
+## DevOps & Reliability
+
+1. DevOps
+2. CI/CD
+3. Monitoring
+4. Observability
+5. Logging
+6. Troubleshooting
+7. Performance Optimization
+8. Reliability
+9. Fault Tolerance
+10. Disaster Recovery
+11. Backup & Recovery
+12. Cost Optimization
+
+## Security
+
+1. Cybersecurity
+2. Application Security
+3. Cloud Security
+4. Authentication
+5. Authorization
+6. Network Security
+7. DevSecOps
+8. Security Automation
+
+## Automation
+
+1. Scripting
+2. Automation
+3. Infrastructure Automation
+4. Deployment Automation
+5. Test Automation
+
+## AI & Intelligent Engineering
+
+1. Artificial Intelligence
+2. Machine Learning
+3. Generative AI
+4. Prompt Engineering
+5. AI Agents
+6. LLMs
+7. RAG
+8. AI Integration
+9. AI-Assisted Development
+
+## Professional & Leadership
+
+1. Communication
+2. Team Collaboration
+3. Technical Leadership
+4. Mentoring
+5. Technical Documentation
+6. Project Management
+7. Technical Decision Making
 
 [TOP](./README.md)
