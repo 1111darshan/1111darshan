@@ -20,7 +20,7 @@ Senior DevOps Engineer with 7 years of experience in designing, automating, and 
 - Terraform Associate Certification: HashiCorp Certified from KodeKloud
 
 ## Current Focus
-I am currently dedicated to enhancing my skills in System Design, AWS cloud services, and Kubernetes. Actively seeking opportunities to apply my expertise in DevOps, DevSecOps, and Infrastructure roles.
+Currently focused on advancing my expertise in System Design, AWS, Kubernetes, and cloud-native architecture. Expanding my capabilities across DevOps, DevSecOps, Infrastructure, automation, observability, and scalable system engineering, while applying modern practices and AI to build and improve production-ready solutions..
 
 ## Skills & Badges
 
